@@ -24,5 +24,12 @@ The number of such subsets is denoted by nCk, read “n choose k.” For combina
 
 ![image](https://github.com/deva-246/Permutation-and-combination-using-python/assets/75877347/a0fd1122-381e-45f8-a446-eea57e722930)
 
+This is the same as the (n, k) binomial coefficient (see binomial theorem; these combinations are sometimes called k-subsets). For example, the number of combinations of five objects taken two at a time is
+
+![image](https://github.com/deva-246/Permutation-and-combination-using-python/assets/75877347/51bbf738-2bfd-437f-b5df-13d2943d4ab7)
+
+
+The formulas for nPk and nCk are called counting formulas since they can be used to count the number of possible permutations or combinations in a given situation without having to list them all.
+
 
 
