@@ -8,7 +8,9 @@ List of the 20 potential combinations of the letters A, B, C, D, and E.
 ![image](https://github.com/deva-246/Permutation-and-combination-using-python/assets/75877347/b4aeafff-c5fc-42f0-a24d-801baee0135a)
 
 Each of these 20 different possible selections is called a permutation. In particular, they are called the permutations of five objects taken two at a time, and the number of such permutations possible is denoted by the symbol 5P2, read “5 permute 2.” In general, if there are n objects available from which to select, and permutations (P) are to be formed using k of the objects at a time, the number of different permutations possible is denoted by the symbol nPk. A formula for its evaluation is
+
 nPk = n!/(n − k)!
+
 The expression n!—read “n factorial”—indicates that all the consecutive positive integers from 1 up to and including n are to be multiplied together, and 0! is defined to equal 1. For example, using this formula, the number of permutations of five objects taken two at a time is
 
 ![image](https://github.com/deva-246/Permutation-and-combination-using-python/assets/75877347/156cfc84-bc65-42f4-8453-a8f2ec9439db)
